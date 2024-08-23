@@ -1,0 +1,26 @@
+h1{ 
+    text-align: center;
+}   
+.row{ 
+    font-weight: 400;
+}  
+td,th{ 
+    border: 1px solid rgb(50, 53, 50);
+}
+body h1{ 
+    align-items: center; 
+    background-color: rgb(25,219,25); 
+    padding-left: 350px;
+} 
+table {
+    margin: 0%auto;
+} 
+.head{
+    background-color: rgb(20,113,20);
+    color: white;
+}
+#gray{
+    background-color: rgb(162,162,162);
+}
+
+
